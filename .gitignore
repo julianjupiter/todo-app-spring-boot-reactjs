@@ -1,0 +1,21 @@
+# todo-ui
+/todo-ui/node_modules
+/todo-ui/.pnp
+/todo-ui/.pnp.js
+
+# testing
+/todo-ui/coverage
+
+# production
+/todo-ui/build
+
+# misc
+/todo-ui/.DS_Store
+/todo-ui/.env.local
+/todo-ui/.env.development.local
+/todo-ui/.env.test.local
+/todo-ui/.env.production.local
+
+/todo-ui/npm-debug.log*
+/todo-ui/yarn-debug.log*
+/todo-ui/yarn-error.log*
